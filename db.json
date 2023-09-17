@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "name:": "cadasdasd",
+      "count": 1,
+      "size": 12
     }
   ],
   "profile": {
